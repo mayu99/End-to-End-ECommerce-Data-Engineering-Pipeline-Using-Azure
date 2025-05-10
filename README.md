@@ -102,24 +102,5 @@ To build a scalable, modular data pipeline that ingests structured and semi-stru
 
 ---
 
-## 📂 Folder Structure (Recommended)
-```
-├── data/
-│   └── raw/         # Sample CSVs (small version for demo)
-├── notebooks/
-│   └── databricks/  # PySpark transformation notebooks
-├── adf/
-│   └── pipeline/    # JSON exports of ADF pipelines
-├── synapse/
-│   └── sql/         # SQL queries for analytics
-├── tableau/
-│   └── dashboards/  # Screenshots or packaged workbooks
-├── pdfs/
-│   └── project-report.pdf
-├── README.md
-```
-
----
-
 ## 📬 Contact
 For any queries or contributions, please contact [Mayuresh Pandey](https://github.com/mayu99).
